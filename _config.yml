@@ -1,0 +1,12 @@
+markdown: rdiscount
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+gems:
+  - jekyll-sitemap
+
+name: Sonal Saldanha
+url: https://ssonal.github.io
+description: blog.
+twitter: sonalsaldanha
