@@ -4,13 +4,13 @@ published: true
 
 
 
+
 ## Machine Learning Musings
 
 Machine Learning is an area of computing that focuses on building a model from given data so as to apply the model and evaluate new unseen data to a certain degree of accuracy that accounts for outliers and prevents overfitting of data. This learning can take various forms depending on the end objective. Problems of classification, clustering, regression, dimensionality reduction can all be solved using various machine learning algorithms. 
 
 The image below illustrates very well the scope of machine learning.
-![Algorithms](/images/ml-algorithms.png "Algorithms!")
-
+<img title="algorithms" src="/images/ml-algorithms.png" width="40%">
 
 ### Deluge of Data
 Getting past this introduction, the learning landscape is changing extremely rapidly as people are beginning to embrace this technology as they begin to see its merits. One remarkable application of this technology is for business owners to better understand their customers and tailor their services. The primary cause for this is the growth of massive data sets. People are surrounded by sensors and trackers - on smartphones, online, roads. Huge amounts of data are being collected on a daily basis and this allows for the creation of fairly accurate learning models.
