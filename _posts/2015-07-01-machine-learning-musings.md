@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## Machine Learning Musings
 
@@ -24,7 +25,3 @@ Not to worry however, because some people anticipated this problem years ago. Go
 In 2005, Google published the [MapReduce paper](http://research.google.com/archive/mapreduce.html), a critical development in techniques used to effectively handle and process Terrabytes of data. This was followed by the release of Hadoop and now various other tools. [Spark](https://spark.apache.org/) a creation by Apache is a fairly recent addition to this toolset and from what I hear, is extremely fast - 10 to 100 times the speed of Hadoop MapReduce depending on the type of deployment. Spark has libraries that are dedicated to cluster driven machine learning among other applications involving large amounts of data.
 
 I'm very curious to see how this works for myself. More information as and when I finish experimenting!
-
-
-
-
