@@ -1,6 +1,9 @@
 ---
 published: true
+layout: post
+category: posts
 ---
+
 
 
 
